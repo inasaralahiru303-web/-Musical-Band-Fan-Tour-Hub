@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0f1a;
+    color: white;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+}
+
+.cla2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#id1 {
+    color: pink;
+    text-decoration: none;
+}
+
+table {
+    width: 80%;
+    margin-top: 15px;
+}
+
+button {
+  background: linear-gradient(45deg, #ff2e63, #ff5f6d);
+  border: none;
+  padding: 8px 12px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+
+.img {
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+}
+
+ol {
+  padding-left: 18px;
+}
+
+ol li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 8px 0;
+}
+
+.cla1 {
+  background: #121829;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 20px rgba(15, 0, 0, 0.4);
+}
+
+.cla3 {
+  display: flex;
+  gap: 20px;
+}
+
+.cla4 {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+
+.cla5{
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+.cla6{
+   mar
+
+}
+.cla7{
+    margin-right: 50px;
+}
+
+.cla8{
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.small {
+  flex: 1;
+}
+
+.cla10 {
+  display: flex;
+  gap: 20px;
+}
+
+.listen, .join {
+  margin-top: 10px;
+  width: 100%;
+}
