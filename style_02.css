@@ -36,25 +36,10 @@ button {
   cursor: pointer;
 }
 
-.cal3 {
-  display: flex;
-  gap: 20px;
-}
-
-/* .cal4 {
-  flex: 1;
-} */
-
-.cal4 {
-  display: flex;
-  gap: 15px;
-  margin-top: 10px;
-}
 
 .img {
-  width: 120px;
-  height: 120px;
-  background: gray;
+  width: 80px;
+  height: 80px;
   border-radius: 10px;
 }
 
@@ -69,7 +54,6 @@ ol li {
   margin: 5px 0;
 }
 
-/* FAN CLUB */
 ul {
   list-style: none;
   padding: 0;
@@ -77,4 +61,57 @@ ul {
 
 ul li {
   margin: 8px 0;
+}
+
+.cla1 {
+  background: #121829;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 20px rgba(15, 0, 0, 0.4);
+}
+
+.cla3 {
+  display: flex;
+  gap: 20px;
+}
+
+.cla4 {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+
+.cla5{
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+.cla6{
+   
+
+}
+.cla7{
+    margin-right: 50px;
+}
+
+.cla8{
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.small {
+  flex: 1;
+}
+
+.cla10 {
+  display: flex;
+  gap: 20px;
+}
+
+.listen, .join {
+  margin-top: 10px;
+  width: 100%;
 }
