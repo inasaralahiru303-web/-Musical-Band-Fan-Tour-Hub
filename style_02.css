@@ -1,12 +1,37 @@
-*{
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #0b0f1a;
-  color: white;
+* {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0f1a;
+    color: white;
 }
 
 .container {
-  width: 90%;
-  margin: auto;
-  padding: 20px;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+}
+
+.cla2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#id1 {
+    color: pink;
+    text-decoration: none;
+}
+
+table {
+    width: 80%;
+    margin-top: 15px;
+}
+
+button {
+  background: linear-gradient(45deg, #ff2e63, #ff5f6d);
+  border: none;
+  padding: 8px 12px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
 }
