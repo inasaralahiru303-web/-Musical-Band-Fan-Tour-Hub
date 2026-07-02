@@ -35,27 +35,8 @@
      
 }
 .img1 {
-     margin: px 0px 10px 10px;
-
+    padding: 8cap 40px ;
     float: right;
-}
-
-
-.logo h2{
-
-font-size:28px;
-color:white;
-
-}
-
-.logo span{
-
-color:#ff2d70;
-
-}
-
-.active{
-color:#ff2d70;
 }
 
 .login{
@@ -68,13 +49,13 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration:none;
 }
 
-.content{
+.div4 {
 padding-top:130px;
 padding-left:80px;
 }
 
 
-.content h1{
+.div4 h1{
 font-size:110px;
 font-weight:800;
 color:white;
@@ -82,19 +63,18 @@ line-height:1;
 }
 
 
-.content h1 span{
+.div4 h1 span{
 color:#ff2d70;
 }
 
-.content h3{
+.div4 h3{
 margin-top:25px;
 color:white;
 font-size:35px;
 }
 
 
-
-.content p{
+.div4 p{
 margin-top:120px;
 width:520px;
 color:#ddd;
@@ -102,14 +82,14 @@ font-size:20px;
 line-height:38px;
 }
 
-.buttons{
+.div5{
 display:flex;
 gap:30px;
 margin-top:50px;
 
 }
 
-.btn1{
+.b1{
 padding:18px 45px;
 background:linear-gradient(45deg,#ff2d70,#b400ff);
 color:white;
@@ -119,7 +99,7 @@ font-weight:bold;
 
 }
 
-.btn2{
+.b2{
 padding:18px 40px;
 border:2px solid #ff2d70;
 color:white;
@@ -129,7 +109,7 @@ border-radius:8px;
 
 
 
-.btn2:hover{
+.b2:hover{
 background:#ff2d70;}
 
 
